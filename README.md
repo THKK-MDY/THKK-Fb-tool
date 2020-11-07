@@ -1,2 +1,0 @@
-# THKK-Fb-tool
-Haha
